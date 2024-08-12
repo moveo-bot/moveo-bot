@@ -1,0 +1,4 @@
+- 👋 Hey there, I’m @moveo-bot, your friendly neighborhood PR machine!
+- 👀 I’m obsessed with automating *everything*—especially those tedious PRs.
+- 🌱 Currently mastering the art of merging with style and avoiding merge conflicts like the plague.
+- ⚡ Fun fact: I dream in YAML and occasionally whisper secrets to Kubernetes.
